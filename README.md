@@ -1,5 +1,5 @@
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is Satya Narayan Patra😃 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is Satya Narayan Patra 😃 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
@@ -24,10 +24,6 @@
 <img border="0" alt="satya narayan" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
 </p>
-
-<!--  <a href="https://tawk.to/chat/61001d75d6e7610a49ad3be2/1fbk764uk">
-<img border="0" alt="yawk.to" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
-</a> -->
  
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
@@ -35,7 +31,12 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
 
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=satyanarayan95&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=satyanarayan95&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satyanarayan95&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40"/>
+</a>
+</p>
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
@@ -54,22 +55,13 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
 
-<a href="https://github.com/satyanarayan95/Playing-TRex-game-using-facial-recognition">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=satyanarayan95&repo=TRex-game-using-facial-recognition&theme=dark" />
+<a href="https://github.com/satyanarayan95/Instagram-Reels.git">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=satyanarayan95&repo=Instagram-Reels&theme=dark" />
 </a>
 
-<a href="https://github.com/hrugved06/Discbot_ai">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=satyanarayan95&repo=Discbot_ai&theme=dark" />
+<a href="https://github.com/satyanarayan95/Resume-Builder.git">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=satyanarayan95&repo=Resume-Builder&theme=dark" />
 </a>
-
-<a href="https://github.com/hrugved06/Face-Blurring-and-Deblurring">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Face-Blurring-and-Deblurring&theme=dark" />
-</a>
-
-<a href="https://github.com/hrugved06/ML-DL-Projects">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=ML-DL-Projects&theme=dark" />
-</a>
-
 
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
@@ -78,7 +70,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Graph :
 
- <img src="https://activity-graph.herokuapp.com/graph?username=hrugved06&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ <img src="https://activity-graph.herokuapp.com/graph?username=satyanarayan95&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  
  <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
  
@@ -86,26 +78,21 @@
  
 <!------------------- Languages used by me ----------------------->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Programming Languages used in the Project:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">🛠 &nbsp;Tech Stack:
 
 
 
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-
-<a href="https://html.com/#What_is_HTML">
-<img border="0" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/CSS">
-<img border="0" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
-</a>
-
-<a href="https://www.javascript.com/">
-<img border="0" alt="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
-</a>
-
-
-</br>
-<hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
-</br>
+<div align="center">
+ <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" alt="Thank You">
+</div>
