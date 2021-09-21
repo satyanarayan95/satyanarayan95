@@ -29,7 +29,7 @@
 
 <!-----Contribution figures------>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -39,16 +39,16 @@
 </p>
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
-
+ -->
 <!------------ Streak Display -------------->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Stats :
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Stats :
 
 <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyanarayan95&theme=dark" alt="HrugVed" /></p>
 </div>
 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff"> -->
 
 
 <!-------------Projects---------------->
@@ -66,7 +66,7 @@
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 
-<!--------------- Hrugved's Contribution Graph ---------------->
+<!--------------- Contribution Graph ---------------->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Graph :
 
@@ -78,7 +78,7 @@
  
 <!------------------- Languages used by me ----------------------->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">🛠 &nbsp;Tech Stack:
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">🛠 &nbsp;Tech Stack:
 
 
 
@@ -91,7 +91,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
 
 <div align="center">
  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" alt="Thank You">
