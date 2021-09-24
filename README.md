@@ -68,13 +68,13 @@
 
 <!--------------- Contribution Graph ---------------->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Graph :
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Graph :
 
  <img src="https://activity-graph.herokuapp.com/graph?username=satyanarayan95&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  
  <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
  
- </br>
+ </br> -->
  
 <!------------------- Languages used by me ----------------------->
 
