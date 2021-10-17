@@ -34,7 +34,7 @@
 <p align="center">
 <a href="https://github.com/AVS1508">
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=satyanarayan95&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40"/> -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satyanarayan95&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40"/>
+  <img height="350em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satyanarayan95&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40"/>
 </a>
 </p>
 
