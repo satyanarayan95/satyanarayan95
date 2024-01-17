@@ -5,7 +5,6 @@
 
 - 👀 I’m interested in Web Development 😄<br/>
 - 🌱 I'm a MERN stack developer 🤵🏻 <br/>
-- 👨🏻‍💻 Currently learning MongoDB 📱</br>
 - 💞️ I’m looking to collaborate on exciting projects which helps us to make our lives more efficient ✌🏻<br/>
 - 📫 You can contact me through these socials IDs 😁👇🏻  <br/>
 
